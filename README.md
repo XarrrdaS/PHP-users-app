@@ -1,4 +1,4 @@
-# My own PHP app with a user table with remove and add functionality
+# PHP app with a user table with remove and add functionality
 The app uses jQuery to handle AJAX requests.<br>
 Application retrieves data (users) from a JSON file.<br>
 Through the form you can add new user to JSON.<br>
