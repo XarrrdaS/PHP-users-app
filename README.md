@@ -7,5 +7,3 @@ Application also updates the ID in the JSON file when a new user is removed or a
 <br><br>
 ![Alt text](/screenshots/screenshot.png?raw=true)
 This is how my app looks like
-
-<sub>MADE WITH HEARTH 🖤</sub>
